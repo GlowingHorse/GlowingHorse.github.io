@@ -1,2 +1,2 @@
-# tyleransom.github.io
+# GlowingHorse.github.io
 Repository for Rui SHI's academic research website.
