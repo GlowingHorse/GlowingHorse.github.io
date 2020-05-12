@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0eceed27-1b76-4198-bb7d-81b00e289ee3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +44,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="41" key="#Notifications" timestamp="1587391024985">
+    <state x="275" y="41" key="#Notifications" timestamp="1589294321146">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="41" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1587391024985" />
+    <state x="275" y="41" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1589294321146" />
     <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586615463306">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1586615463306" />
-    <state x="184" y="14" key="SettingsEditor" timestamp="1586616090342">
+    <state x="184" y="14" key="SettingsEditor" timestamp="1589294332497">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586616090342" />
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589294332497" />
     <state x="363" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1587393035217">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587393035217" />
-    <state x="719" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589293781463">
+    <state x="719" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589294312764">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="719" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1589293781463" />
+    <state x="719" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1589294312764" />
     <state x="339" y="25" width="672" height="676" key="search.everywhere.popup" timestamp="1586619102840">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
