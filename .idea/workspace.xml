@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eceed27-1b76-4198-bb7d-81b00e289ee3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_cn.html" afterDir="false" />
-    </list>
+    <list default="true" id="0eceed27-1b76-4198-bb7d-81b00e289ee3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../文档/博士期间/博士课程/zugakuTA/2020/working" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -54,10 +50,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1586615463306" />
-    <state x="463" y="137" key="FileChooserDialogImpl" timestamp="1590798334034">
+    <state x="463" y="137" key="FileChooserDialogImpl" timestamp="1591190120982">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="137" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590798334034" />
+    <state x="463" y="137" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591190120982" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1590798328213">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
