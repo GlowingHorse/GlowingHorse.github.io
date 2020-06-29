@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eceed27-1b76-4198-bb7d-81b00e289ee3" name="Default Changelist" comment="" />
+    <list default="true" id="0eceed27-1b76-4198-bb7d-81b00e289ee3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shirui.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/shirui.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../文档/博士期间/博士课程/zugakuTA/2020/working" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
