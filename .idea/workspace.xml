@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9b33b04-b324-40a4-ab81-0df34faca86c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/research_cn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../文档/博士期间/博士课程/zugakuTA/2020/working" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,5 +33,11 @@
       <updated>1593406840681</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="137" key="FileChooserDialogImpl" timestamp="1593604819953">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="137" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593604819953" />
   </component>
 </project>
