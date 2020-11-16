@@ -121,7 +121,7 @@
         </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> In animation production, animators always spend significant time and efforts to develop quality deformation systems for characters with complex appearances and details. In order to decrease the time spent repetitively skinning and fine-tuning work, we propose an end-to-end approach to automatically compute deformations for new characters based on existing graph information of high-quality skinned character meshes. We adopt the idea of regarding mesh deformations as a combination of linear and nonlinear parts and propose a novel architecture for approximating complex non-linear deformations. Linear deformations on the other hand are simple and therefore can be directly computed, although not precisely. To enable our network handle complicated graph data and inductively predict nonlinear deformations, we design the graph-attention-based (GAT) block to consist of an aggregation stream and a self-reinforced stream in order to aggregate the features of the neighboring nodes and strengthen the features of a single graph node. To reduce the difficulty of learning huge amount of mesh features, we introduce a dense connection pattern between a set of GAT blocks called “dense module” to ensure the propagation of features in our deep frameworks. These strategies allow the sharing of deformation features of existing well-skinned character models with new ones, which we call densely connected graph attention network (DenseGATs). We tested our DenseGATs and compared it with classical deformation methods and other graph-learning-based strategies. Experiments confirm that our network can predict highly plausible deformations for unseen characters. </div></p>
 
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/submit/">Class-Discriminative Feature Group and its Visualization</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Visual Comuting</i> 2020.<br><button class="accordion">
+        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/oral/">Class-Discriminative Feature Group and its Visualization</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Visual Comuting</i> 2020.<br><button class="accordion">
           摘要
         </button>
         </p>
@@ -129,12 +129,26 @@
 
         <hr>
 
-        <h2><a id="published-workshop-papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>研讨会</h2>
+        <h2><a id="published-workshop-papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>研讨会和海报</h2>
         <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.ieice.org/ken/paper/2019101871Qp/eng/">An attribution-based pruning method for single object detection network</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Technical Committee on Pattern Recognition and Media Understanding (PRMU)</i>, 2019, 119 (10): 17-20.<br><button class="accordion">
           摘要
         </button>
         </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 	Deep neural networks (DNNs) have achieved advanced results on different vision tasks. However, the cost of high computational complexity is not practical for real-time inferences running on mobile devices. In this paper, we propose an attribution-based pruning method for object detection network that reduce the computation while ensuring accuracy. First, Channel mask and spatial mask are designed to generalize attribution methods to detection networks for detecting convolution kernels that are firmly correlated with target output. Then, YOLOv3-tiny network is pruned using attribution maps and finetuned on an open-sourced mango dataset for evaluation. Compared to a state-of-the-art network trained with the same mango dataset, the experiment shows that our network achieves 83.4% computation reduction with only about 2.4% loss in accuracy. </div></p>
+
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/poster/">DenseGATs: a graph-attention-based network for nonlinear character deformation</a>
+            <br>Tianxing Li,
+            <b>Rui Shi</b>,
+            <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>.
+            <i>Visual Comuting</i> 2020.<br>
+            <button class="accordion">
+              摘要
+            </button>
+          </p>
+          <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> In animation production, animators always spend significant time and efforts to develop quality deformation systems for characters with complex appearances and details. In order to decrease the time spent repetitively skinning and fine-tuning work, we propose an end-to-end approach to automatically compute deformations for new characters based on existing graph information of high-quality skinned character meshes. We adopt the idea of regarding mesh deformations as a combination of linear and nonlinear parts and propose a novel architecture for approximating complex non-linear deformations. Linear deformations on the other hand are simple and therefore can be directly computed, although not precisely. To enable our network handle complicated graph data and inductively predict nonlinear deformations, we design the graph-attention-based (GAT) block to consist of an aggregation stream and a self-reinforced stream in order to aggregate the features of the neighboring nodes and strengthen the features of a single graph node. To reduce the difficulty of learning huge amount of mesh features, we introduce a dense connection pattern between a set of GAT blocks called “dense module” to ensure the propagation of features in our deep frameworks. These strategies allow the sharing of deformation features of existing well-skinned character models with new ones, which we call densely connected graph attention network (DenseGATs). We tested our DenseGATs and compared it with classical deformation methods and other graph-learning-based strategies. Experiments confirm that our network can predict highly plausible deformations for unseen characters. </div>
+        </p>
 
         <hr>
       </section>
