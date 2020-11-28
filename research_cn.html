@@ -86,66 +86,71 @@
 
         <h2><a id="published-journal-papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>期刊论文</h2>
 
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.sciencedirect.com/science/article/pii/S0168169919313717?dgcid=author"> An attribution-based pruning method for real-time mango detection with YOLO network</a>
-          <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>.
-          <br> <i>Computers and Electronics in Agriculture</i>, 2020, 169 (2): 1-11.<br> <a href="https://github.com/GlowingHorse/Fast-Mango-Detection">开源代码  </a><a href="https://doi.org/10.5281/zenodo.3534596"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3534596.svg" alt="DOI"></a>
-        <br><button class="accordion">
-          摘要
-        </button>
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.sciencedirect.com/science/article/pii/S0168169919313717?dgcid=author"> An attribution-based pruning method for real-time mango detection with YOLO network</a>
+            <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>.
+            <br> <i>Computers and Electronics in Agriculture</i>, 2020, 169 (2): 1-11.<br> <a href="https://github.com/GlowingHorse/Fast-Mango-Detection">开源代码  </a><a href="https://doi.org/10.5281/zenodo.3534596"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3534596.svg" alt="DOI"></a>
+            <br><button class="accordion"> 摘要</button>
         </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Real-time fruit detection and localization in orchards are essential for agronomic applications of yield estimation, yield mapping, and automated harvesting. Traditional detection methods based on hand-crafted feature extractors are difficult to adapt to the complicated variations in real orchard environments. Modern deep neural networks (DNNs) need high performance computing units for inference, this is not practical for typical farms and orchards, despite the high detection performance. To reduce the computation cost of DNNs, we propose a generalized attribution method for pruning detection networks which can be easily finetuned to accurately detect mango in real time. By designing the channel and spatial masks to generalize the attribution method, the convolutional kernels that are firmly correlated with specific target output in the original YOLOv3-tiny network can be detected. Then, the uncorrelated kernels are pruned in channel-dimension layer-by-layer. Before finetuning the pruned network, anchor sizes, data augmentation, and learning rate decay were adapted for mango detection. The experimental results show that the proposed pruning method could identify the highly target-related convolutional kernels and that the finetuned network provides better mango detection performance than the original. Our resulting network which is a scale and rotation invariant mango detection network achieved an F1-score of 0.944 with 2.6 GFLOPs (giga-floating point operations). Compared to the finetuned network without pruning, the computation of our network was reduced by 68.7% whereas the accuracy was increased by 0.4%. Compared to a state-of-the-art network trained with the same mango dataset, the computation was reduced by 83.4% with only about 2.4% loss in accuracy. The proposed pruning method can strip a sub-network from a large-scale detection network to meet the real-time requirements of low-power-consumption processors for mobile devices, e.g., ARM Cortex-A8 performs around 4.0 GFLOPS (giga-floating point operations per second). The trained network and test code are available for comparative studies. </div></p>
 
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0893608020301969">Group Visualization of Class-Discriminative Features</a>
-          <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>.
-          <br> <i>Neural Networks</i>, 2020, 129 (9): 75-90. <br> <a href="https://github.com/GlowingHorse/Class-Discriminative-Vis">开源代码  </a><a href="https://zenodo.org/badge/latestdoi/236292675"><img src="https://zenodo.org/badge/236292675.svg" alt="DOI"></a></a> <br><button class="accordion">
-          摘要
-        </button>
-        </p>
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0893608020301969">Group Visualization of Class-Discriminative Features</a>
+            <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>.
+            <br> <i>Neural Networks</i>, 2020, 129 (9): 75-90. <br> <a href="https://github.com/GlowingHorse/Class-Discriminative-Vis">开源代码  </a><a href="https://zenodo.org/badge/latestdoi/236292675"><img src="https://zenodo.org/badge/236292675.svg" alt="DOI"></a></a>
+            <br><button class="accordion"> 摘要</button>
+          </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Research explaining the behavior of convolutional neural networks (CNNs) has gained a lot of attention over the past few years. Although many visualization methods have been proposed to explain network predictions, most fail to provide clear correlations between the target output and the features extracted by convolutional layers. In this work, we define a concept, i.e., class-discriminative feature groups, to specify features that are extracted by groups of convolutional kernels correlated with a particular image class. We propose a detection method to detect class-discriminative feature groups and a visualization method to highlight image regions correlated with particular output and to interpret class-discriminative feature groups intuitively. The experiments showed that the proposed method can disentangle features based on image classes and shed light on what feature groups are extracted from which regions of the image. We also applied this method to visualize ``lost" features in adversarial samples and features in an image containing a non-class object to demonstrate its ability to debug why the network failed or succeeded. </div></p>
 
 
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="http://new.gb.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=YQXB201612029&uid=WEEvREcwSlJHSldRa1Fhb09pSnNveUFkVUdnVzViQnBOeWFLVlVvZTRxYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjA0NDU3cWZadVJxRnlyZ1VML0xQRHpUYkxHNEg5Zk5yWTlIYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI=">基于ICM的精密指针式仪表自动读数方法</a>
-          <br> 张军国, <b>石睿</b>, 陈邵.
-          <br> <i>仪器仪表学报</i>, 2016, 37 (12): 2866-2872.<br><a href="https://github.com/GlowingHorse/meter_reading">开源代码  </a><a href="https://zenodo.org/badge/latestdoi/236125508"><img src="https://zenodo.org/badge/236125508.svg" alt="DOI"></a> <br><button class="accordion">
-          摘要
-        </button>
-        </p>
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="http://new.gb.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=YQXB201612029&uid=WEEvREcwSlJHSldRa1Fhb09pSnNveUFkVUdnVzViQnBOeWFLVlVvZTRxYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjA0NDU3cWZadVJxRnlyZ1VML0xQRHpUYkxHNEg5Zk5yWTlIYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI=">基于ICM的精密指针式仪表自动读数方法</a>
+            <br> 张军国, <b>石睿</b>, 陈邵.
+            <br> <i>仪器仪表学报</i>, 2016, 37 (12): 2866-2872.<br><a href="https://github.com/GlowingHorse/meter_reading">开源代码  </a><a href="https://zenodo.org/badge/latestdoi/236125508"><img src="https://zenodo.org/badge/236125508.svg" alt="DOI"></a>
+            <br><button class="accordion"> 摘要</button>
+          </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Aiming at the problem of adaptivity in traditional auto-reading method for precision pointer meter,an auto-reading method based on intersect cortical model( ICM) is proposed. The proposed approach designs ignition erosion and dilation by combining the parallel progressive relationship of ICM sequential matrix among the neighbor pixels and the distribution of noise information in binary meter image,and then unites weighted Otsu to calculate adaptively ICM iterative times to eliminate noise around the scale. By using the proposed method,the arc position of the scale is accurately extracted. Finally,polar translation image is derived by using information of arc,and the meter reading is calculated by the relative position between scale and index. Experimental results show that the proposed method can meet the applications requirements and the relative error between meter auto-readings and actual readings is less than 0.2%. </div></p>
 
         <hr>
 
         <h2><a id="published-conference-papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>会议论文</h2>
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384525">DenseGATs: a graph-attention-based network for nonlinear character deformation</a> <br>Tianxing Li, <b>Rui Shi</b>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>. <br> <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (ACM SIGGRAPH SI3D)</i> 2020.<br><button class="accordion">
-          摘要
-        </button>
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384525">DenseGATs: A graph-attention-based network for nonlinear character deformation</a>
+            <br>Tianxing Li, <b>Rui Shi</b>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>.
+            <br> <i>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (ACM SIGGRAPH SI3D)</i>, 2020, Article No. 5.
+            <br><button class="accordion"> 摘要</button>
         </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> In animation production, animators always spend significant time and efforts to develop quality deformation systems for characters with complex appearances and details. In order to decrease the time spent repetitively skinning and fine-tuning work, we propose an end-to-end approach to automatically compute deformations for new characters based on existing graph information of high-quality skinned character meshes. We adopt the idea of regarding mesh deformations as a combination of linear and nonlinear parts and propose a novel architecture for approximating complex non-linear deformations. Linear deformations on the other hand are simple and therefore can be directly computed, although not precisely. To enable our network handle complicated graph data and inductively predict nonlinear deformations, we design the graph-attention-based (GAT) block to consist of an aggregation stream and a self-reinforced stream in order to aggregate the features of the neighboring nodes and strengthen the features of a single graph node. To reduce the difficulty of learning huge amount of mesh features, we introduce a dense connection pattern between a set of GAT blocks called “dense module” to ensure the propagation of features in our deep frameworks. These strategies allow the sharing of deformation features of existing well-skinned character models with new ones, which we call densely connected graph attention network (DenseGATs). We tested our DenseGATs and compared it with classical deformation methods and other graph-learning-based strategies. Experiments confirm that our network can predict highly plausible deformations for unseen characters. </div></p>
 
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/oral/">Class-Discriminative Feature Group and its Visualization</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Visual Computing</i> 2020.<br><button class="accordion">
-          摘要
-        </button>
+        <p style="margin:0;" }>
+          <p>
+          <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/oral/">Class-Discriminative Feature Group and its Visualization</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Visual Computing</i>, 2020, Article No. 36.
+          <br><button class="accordion"> 摘要</button>
         </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Research explaining the behavior of convolutional neural networks (CNNs) has gained a lot of attention over the past few years. Although many visualization methods have been proposed to explain network predictions, most fail to provide clear correlations between the target output and the features extracted by convolutional layers. In this work, we define a concept, i.e., class-discriminative feature groups, to specify features that are extracted by groups of convolutional kernels correlated with a particular image class. We propose a detection method to detect class-discriminative feature groups and a visualization method to highlight image regions correlated with particular output and to interpret feature groups intuitively. The experiments showed that the proposed method can disentangle features based on the target class and shed light on what feature groups are extracted from which regions of the image. </div></p>
 
         <hr>
 
         <h2><a id="published-workshop-papers" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>研讨会和海报</h2>
-        <p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.ieice.org/ken/paper/2019101871Qp/eng/">An attribution-based pruning method for single object detection network</a> <br> <b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <br> <i>Technical Committee on Pattern Recognition and Media Understanding (PRMU)</i>, 2019, 119 (10): 17-20.<br><button class="accordion">
-          摘要
-        </button>
-        </p>
+        
+        <p style="margin:0;" }>
+          <p>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="https://www.ieice.org/ken/paper/2019101871Qp/eng/">An attribution-based pruning method for single object detection network</a> <br><b>Rui Shi</b>, Tianxing Li, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>.
+            <br> <i>Technical Committee on Pattern Recognition and Media Understanding (PRMU)</i>, 2019, 119 (10): 17-20.
+            <br> <button class="accordion"> 摘要</button>
+          </p>
         <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 	Deep neural networks (DNNs) have achieved advanced results on different vision tasks. However, the cost of high computational complexity is not practical for real-time inferences running on mobile devices. In this paper, we propose an attribution-based pruning method for object detection network that reduce the computation while ensuring accuracy. First, Channel mask and spatial mask are designed to generalize attribution methods to detection networks for detecting convolution kernels that are firmly correlated with target output. Then, YOLOv3-tiny network is pruned using attribution maps and finetuned on an open-sourced mango dataset for evaluation. Compared to a state-of-the-art network trained with the same mango dataset, the experiment shows that our network achieves 83.4% computation reduction with only about 2.4% loss in accuracy. </div></p>
 
         <p style="margin:0;" }>
           <p>
-            <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/poster/">DenseGATs: a graph-attention-based network for nonlinear character deformation</a>
-            <br>Tianxing Li,
-            <b>Rui Shi</b>,
-            <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>.
-            <i>Visual Computing</i> 2020.<br>
-            <button class="accordion">
-              摘要
-            </button>
+            <a style="margin:0; font-size:100%; font-weight:bold" href="http://cgvi.jp/vc2020/program/poster/">DenseGATs: A graph-attention-based network for nonlinear character deformation</a>
+            <br>Tianxing Li, <b>Rui Shi</b>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>.
+            <br> <i>Visual Computing</i>, 2020, Poster No. 41.
+            <br> <button class="accordion"> 摘要</button>
           </p>
           <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> In animation production, animators always spend significant time and efforts to develop quality deformation systems for characters with complex appearances and details. In order to decrease the time spent repetitively skinning and fine-tuning work, we propose an end-to-end approach to automatically compute deformations for new characters based on existing graph information of high-quality skinned character meshes. We adopt the idea of regarding mesh deformations as a combination of linear and nonlinear parts and propose a novel architecture for approximating complex non-linear deformations. Linear deformations on the other hand are simple and therefore can be directly computed, although not precisely. To enable our network handle complicated graph data and inductively predict nonlinear deformations, we design the graph-attention-based (GAT) block to consist of an aggregation stream and a self-reinforced stream in order to aggregate the features of the neighboring nodes and strengthen the features of a single graph node. To reduce the difficulty of learning huge amount of mesh features, we introduce a dense connection pattern between a set of GAT blocks called “dense module” to ensure the propagation of features in our deep frameworks. These strategies allow the sharing of deformation features of existing well-skinned character models with new ones, which we call densely connected graph attention network (DenseGATs). We tested our DenseGATs and compared it with classical deformation methods and other graph-learning-based strategies. Experiments confirm that our network can predict highly plausible deformations for unseen characters. </div>
         </p>
