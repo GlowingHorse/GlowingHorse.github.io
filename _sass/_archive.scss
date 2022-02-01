@@ -15,9 +15,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
+      // control pub paper's name's underline
       text-decoration: underline;
 
       img {
@@ -35,7 +36,7 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.0em;
   }
 }
 
@@ -80,7 +81,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
