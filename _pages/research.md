@@ -7,9 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: calculating neuron attributions of deep neural networks, and then visualizing feature transformation contained in attributions. We also use attributions to achieve some applications, *e.g.,* network pruning method.
-
-My current work mainly focuses on image processing networks like CNNs and Vision Transformers.
+My research falls into two main areas: calculating neuron attributions, and then visualizing attributions. We also use attributions to achieve some useful applications, *e.g.,* network pruning method. Our current work mainly focuses on image processing networks like CNNs and Vision Transformers.
 
 <nbsp>
 

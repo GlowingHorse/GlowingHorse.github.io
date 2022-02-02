@@ -6,6 +6,6 @@ main:
   - title: "Research"
     url: /research/
         
-  # - title: "Toy Projects"
-  #   url: /year-archive/
+  - title: "Toy Projects"
+    url: /year-archive/
 

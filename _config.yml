@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "石 睿 (Rui SHI)"
 title_separator          : "-"
 name                     : &name "Rui SHI"
-description              : &description "personal description"
+description              : &description "Rui Shi; 石睿; homepage"
 # bundle exec jekyll liveserve --port 4001
 url                      : https://GlowingHorse.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "石 睿 (Rui SHI)"
+  name             : "Rui SHI"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student"
+  bio              : "A Ph.D. student"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
