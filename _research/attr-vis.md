@@ -14,7 +14,7 @@ An attribution result contains tens of thousands of numerical scores. Previous m
 
 This video shows how the mask and visualization are generated.
 
-<video width="600" class="align-center" controls>
+<video width="300" class="align-center" controls>
     <source src="/images/research/AttrVis/vis-gen-horizontal.mp4" type="video/mp4">
 </video>
 

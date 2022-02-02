@@ -32,4 +32,4 @@ Youtube and Weibo have a very popular video. In simple terms, it is how to desig
 ### Problem analysis:
 In the end, my result is not as beautiful as the original video. It may be because the formula of the parabolic movement is deviated. In addition, I did not consider the motion curve of the first half of the basketball when shooting. On the whole, there are many details that can be improved. For example, the influence of the centrifugal force of the ball rotation on the ejection angle and the influence of the air resistance during the ball movement should also be considered. The algorithm for the physical characteristics is expected.
 
-![](/images/post/basketball-board/all-in-basketball-hoop.gif){: .align-center .fifty-percentage-resize-img}s
+![](/images/post/basketball-board/all-in-basketball-hoop.gif){: .align-center .fifty-percentage-resize-img}
