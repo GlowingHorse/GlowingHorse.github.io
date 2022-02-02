@@ -16,7 +16,6 @@ A toy demo showing the features lost in **adversarial attacks**. [Toy Demo](http
 Adversarial attacks mean modifying the input image and then making the neural network fail to recognize the image at all.
 However, it is difficult to understand exactly what changes the network produces as a result of the adversarial attack.
 
-I would like to use an intuitive interface to show the features that are present in the original image.
-As well as the features that are missing in the adversarial sample.
+I would like to develop an intuitive interface to show the features that are present in the original image. As well as the features that are missing in the adversarial sample.
 
 The development of [this front-end interface](https://shirui-homepage.com/AdvExplainer/) is still a work in progress. 
