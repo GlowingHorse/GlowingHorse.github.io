@@ -9,7 +9,7 @@ tags:
   - Visualization system
 ---
 
-A toy demo showing the features lost in **adversarial attacks**. [Toy Demo](https://shirui-homepage.com/AdvExplainer/){: .btn .btn-green}
+A toy demo showing the features lost in **adversarial attacks**. [Toy Demo](https://shirui-homepage.com/AdvExplainer/){: .btn}
 
 <!--more-->
 

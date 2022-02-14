@@ -14,4 +14,4 @@ To understand how CNNs work, it is necessary to evaluate what features extracted
 
 ## Article
 
-"Group visualization of class-discriminative features." *Neural Networks*. [Article](https://www.sciencedirect.com/science/article/pii/S0893608020301969){: .btn .btn-green} [GitHub Repo](https://github.com/GlowingHorse/Class-Discriminative-Vis){: .btn .btn-green}
+"Group visualization of class-discriminative features." *Neural Networks*. [Article](https://www.sciencedirect.com/science/article/pii/S0893608020301969){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Class-Discriminative-Vis){: .btn}

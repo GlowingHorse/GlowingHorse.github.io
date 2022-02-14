@@ -45,7 +45,10 @@
     {% endif %}
     {% if post.code %}
       <a href="{{ post.code }}"><img src="{{ post.zenodo }}" alt="DOI"></a>
-      <!-- <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a> -->
+    {% endif %}
+    {% if post.researchButton %}
+      <!-- <a href="{{ post.researchButton }}" class="btn btn-green">Research Page</a> -->
+      <a href="{{ post.researchButton }}" class="btn-blue">Research Page</a>
     {% endif %}
     </p>
     

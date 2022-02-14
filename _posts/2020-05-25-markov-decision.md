@@ -9,7 +9,7 @@ tags:
   - Decision Process
 ---
 
-An example of Markov decision process for the course CS229. [GitHub Repo](https://github.com/GlowingHorse/MarkovDecisionProcess-RobotMoveInBoxes-CS229){: .btn .btn-green}
+An example of Markov decision process for the course CS229. [GitHub Repo](https://github.com/GlowingHorse/MarkovDecisionProcess-RobotMoveInBoxes-CS229){: .btn}
 
 <!--more-->
 

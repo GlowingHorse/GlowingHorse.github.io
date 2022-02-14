@@ -9,7 +9,7 @@ tags:
   - Linear regression
 ---
 
-Create a basketball backboard that can make your shot always in. [GitHub Repo](https://github.com/GlowingHorse/BasketballHoop){: .btn .btn-green}
+Create a basketball backboard that can make your shot always in. [GitHub Repo](https://github.com/GlowingHorse/BasketballHoop){: .btn}
 
 <!--more-->
 

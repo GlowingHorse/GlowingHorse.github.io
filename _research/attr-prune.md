@@ -16,11 +16,11 @@ Network pruning is a general technique to reduce the weight size and inference t
 
 ## Article
 
-"An attribution-based pruning method for real-time mango detection with YOLO network." *Computers and Electronics in Agriculture*. [Article](https://www.sciencedirect.com/science/article/pii/S0168169919313717?dgcid=author){: .btn .btn-green} [GitHub Repo](https://github.com/GlowingHorse/Fast-Mango-Detection){: .btn .btn-green}
+"An attribution-based pruning method for real-time mango detection with YOLO network." *Computers and Electronics in Agriculture*. [Article](https://www.sciencedirect.com/science/article/pii/S0168169919313717?dgcid=author){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Fast-Mango-Detection){: .btn}
 
 ## Other Applications
 
-We also find this method can be easily applied to other similar scenes. In OpenCV AI competition, we use the pruning method to design a fast **strawberry** detection network and apply it to a mobile device named [OAK-D](https://opencv.org/opencv-ai-competition-2021/#introSection) (a neural computating CPU + a binocular stereo camera). [GitHub Repo](https://github.com/GlowingHorse/OAKD-yolov4-tiny-tf2-strawberry){: .btn .btn-green}
+We also find this method can be easily applied to other similar scenes. In OpenCV AI competition, we use the pruning method to design a fast **strawberry** detection network and apply it to a mobile device named [OAK-D](https://opencv.org/opencv-ai-competition-2021/#introSection) (a neural computating CPU + a binocular stereo camera). [GitHub Repo](https://github.com/GlowingHorse/OAKD-yolov4-tiny-tf2-strawberry){: .btn}
 
 ![](/images/research/AttrPrune/detect_strawberry.png){: .align-center .percentage-resize-img}
 
