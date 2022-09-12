@@ -16,4 +16,4 @@ Calculated attribution scores represent feature importance to the particular out
 
 ## Article
 
-"Computing neuron attributions with class-targeted baseline" is now in progress.
+"Output-targeted baseline for neuron attribution calculation." *Image and Vision Computing*. [Article](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001457){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Attribution-Visualization){: .btn}
