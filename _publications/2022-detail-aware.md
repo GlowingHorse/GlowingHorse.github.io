@@ -1,5 +1,5 @@
 ---
-title: "Detail-Aware Deep Clothing Animations Infused with Multi-Source Attributes"
+title: "Detail-aware deep clothing animations infused with multi-source attributes"
 collection: publications
 permalink: /publication/2022-detail-aware
 date: 2022-12-02
