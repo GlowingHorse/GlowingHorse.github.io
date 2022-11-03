@@ -17,7 +17,7 @@ author_profile: true
 
 ------
   
-Workshop Papers, Posters, etc
+Workshop Papers, Invited Talks, etc
 ======
    
 {% for post in site.otherpublications reversed %}

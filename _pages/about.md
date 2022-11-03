@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a PhD student of [Yamaguchi Lab](https://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php) of Department of General Systems Studies at the University of Tokyo (UTokyo). My research interests include explainable AI, visualization of deep networks, and applications of network interpretability. Although I specialize in software for my research, I also like to work with hardwares for interesting toy projects.
+Welcome! I am currently a lecturer (tenure-track) with the Faculty of Information Technology, Beijing University of Technology (BJUT). I received the Ph.D. from the University of Tokyo (UTokyo), supervised by Prof. [Yasushi Yamaguchi](https://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php).
+
+My research interests include explainable and trustworthy AI, visualization of deep networks, and applications of network interpretability. Although I specialize in software for my research, I also like to work with some hardwares (Raspberry Pi, [depth camera](https://github.com/GlowingHorse/OAKD-yolov4-tiny-tf2-strawberry), *etc*) for interesting toy projects.
