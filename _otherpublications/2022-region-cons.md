@@ -1,7 +1,8 @@
 ---
 title: "Region-conscious visualization of output-targeted neuron features"
+otherpublications: otherpublications
 collection: publications
-permalink: /publication/2022-region-cons
+permalink: /otherpublication/2022-region-cons
 date: 2022-10-02
 venue: 'Visual Computing'
 # paperurl: '/files/pdf/research/Turning the Lights on.pdf'

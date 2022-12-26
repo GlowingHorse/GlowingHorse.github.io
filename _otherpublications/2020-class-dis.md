@@ -1,7 +1,8 @@
 ---
 title: "Class-discriminative feature group and its visualization"
+otherpublications: otherpublications
 collection: publications
-permalink: /publication/2021-class-dis
+permalink: /otherpublications/2021-class-dis
 date: 2020-12-02
 venue: 'Visual Computing'
 # paperurl: '/files/pdf/research/Turning the Lights on.pdf'
