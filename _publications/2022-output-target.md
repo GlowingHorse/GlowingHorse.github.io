@@ -6,6 +6,7 @@ date: 2022-08-01
 venue: 'Image and Vision Computing'
 # paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0262885622001457'
+paperurl: '/files/pdf/research/202208attrBase-IVC.pdf'
 github: 'https://github.com/GlowingHorse/Output-Targeted-Baseline'
 code: 'https://zenodo.org/badge/latestdoi/570214643'
 zenodo: 'https://zenodo.org/badge/570214643.svg'
