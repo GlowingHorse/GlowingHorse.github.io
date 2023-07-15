@@ -37,15 +37,23 @@
       <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     {% endif %}
     <br>
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-    {% endif %}
     {% if post.github %}
       <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     {% endif %}
-    {% if post.code %}
-      <a href="{{ post.code }}"><img src="{{ post.zenodo }}" alt="DOI"></a>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
     {% endif %}
+    {% if post.code %}
+      <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+    {% endif %}
+
+    {% if post.book %}
+      <a href="{{ post.book }}"><i class="fas fa-fw fa-book zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    <!-- 这个是我为了加 zenodo 才激活的 -->
+    <!-- {% if post.code %}
+      <a href="{{ post.code }}"><img src="{{ post.zenodo }}" alt="DOI"></a>
+    {% endif %} -->
     {% if post.researchButton %}
       <!-- <a href="{{ post.researchButton }}" class="btn btn-green">Research Page</a> -->
       <a href="{{ post.researchButton }}" class="btn-blue">Research Page</a>
