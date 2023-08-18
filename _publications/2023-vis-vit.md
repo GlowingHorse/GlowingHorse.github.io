@@ -1,5 +1,5 @@
 ---
-title: "Visualization Comparison of Vision Transformers and Convolutional Neural Networks"
+title: "Visualization comparison of vision transformers and convolutional neural networks"
 collection: publications
 permalink: /publication/2023-vit-vit
 date: 2023-10-14
