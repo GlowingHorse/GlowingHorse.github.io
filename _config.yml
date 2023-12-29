@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Rui SHI"
 description              : &description "Rui Shi; 石睿; homepage"
 # bundle exec jekyll liveserve --port 4001
-url                      : http://127.0.0.1:4001 # https://GlowingHorse.github.io # http://127.0.0.1:4001
+url                      : https://GlowingHorse.github.io # https://GlowingHorse.github.io # http://127.0.0.1:4001
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GlowingHorse/GlowingHorse.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
