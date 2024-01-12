@@ -11,5 +11,5 @@ github: 'https://github.com/GlowingHorse/Attribution-Visualization'
 # code: 'https://zenodo.org/badge/latestdoi/588504249'
 # zenodo: 'https://zenodo.org/badge/588504249.svg'
 book: 'https://shirui-homepage.com/research/attr-vis/'
-citation: 'Rui Shi<sup>1</sup>, <a href="https://li-tianxing.github.io/">Tianxing Li</a><sup>1</sup>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Neurocomputing</i>, 2023, 550: 126492.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Neurocomputing</i>, 2023, 550: 126492.'
 ---
