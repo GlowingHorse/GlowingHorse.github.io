@@ -1,5 +1,5 @@
 ---
-title: "SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments"
+title: "SwinGar: Spectrum-inspired neural dynamic deformation for free-swinging garments"
 collection: publications
 permalink: /publication/2023-swin-gar
 date: 2023-12-22
