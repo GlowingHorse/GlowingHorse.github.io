@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into explainable and trustworthy AI. I also use network explanation results to achieve some useful applications, *e.g.,* network pruning method. Our current work mainly focuses on image processing networks like CNNs and Vision Transformers (ViTs).
+My research falls into explainable and trustworthy AI, especially for self-driving models. I also use network explanation results to achieve some useful applications, *e.g.,* network pruning method. Our ongoing work primarily revolves around end-to-end networks.
 
 <nbsp>
 

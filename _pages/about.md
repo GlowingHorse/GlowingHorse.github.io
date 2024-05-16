@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome! I am currently a researcher with the Faculty of Information Technology, Beijing University of Technology (BJUT). I received my Ph.D. from the University of Tokyo (UTokyo), supervised by Prof. [Yasushi Yamaguchi](https://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php), in 2022.
 
-My research interests include explainable and trustworthy AI, visualization of deep networks, and applications of network interpretability. Although I specialize in software for my research, I also like to work with some hardwares (Raspberry Pi, [depth camera](https://github.com/GlowingHorse/OAKD-yolov4-tiny-tf2-strawberry), *etc*) for interesting toy projects.
+My research interests include explainable and trustworthy AI, interpreting autonomous driving, and applications of network interpretability. Although I specialize in software for my research, I also like to work with some hardwares (Raspberry Pi, [depth camera](https://github.com/GlowingHorse/OAKD-yolov4-tiny-tf2-strawberry), *etc*) for interesting toy projects.

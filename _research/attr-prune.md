@@ -3,7 +3,7 @@ title: "Attribution-Based Pruning"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AttrPrune/attr-prune-teaser.jpg' alt=''>"
 collection: research
-order_number: 40
+order_number: 50
 header: 
   og_image: "research/AttrPrune/attr-prune-teaser.jpg"
 ---
