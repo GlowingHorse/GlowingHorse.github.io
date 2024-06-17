@@ -3,7 +3,7 @@ title: "Neuron Attribution Visualization"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AttrVis/attr-vis-teaser.jpg' alt=''>"
 collection: research
-order_number: 40
+order_number: 80
 header: 
   og_image: "research/AttrVis/attr-vis-teaser.jpg"
 ---

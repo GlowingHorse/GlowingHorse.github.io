@@ -3,7 +3,7 @@ title: "Attribution Calculation"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ASAttrCal/InIntroattrMethodIntro.jpg' alt=''>"
 collection: research
-order_number: 20
+order_number: 60
 header: 
   og_image: "research/ASAttrCal/InIntroattrMethodIntro.jpg"
 ---
