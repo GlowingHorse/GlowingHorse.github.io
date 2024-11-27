@@ -10,5 +10,5 @@ github: 'https://github.com/GlowingHorse/Class-Discriminative-Vis'
 # code: 'https://zenodo.org/badge/latestdoi/236292675'
 # zenodo: 'https://zenodo.org/badge/236292675.svg'
 book: 'https://shirui-homepage.com/research/attr-vis/'
-citation: 'Rui Shi<sup>1</sup>, <a href="https://li-tianxing.github.io/">Tianxing Li</a><sup>1</sup>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Neural Networks</i>, 2020, 129: 75-90.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Neural Networks</i>, 2020, 129: 75-90.'
 ---
