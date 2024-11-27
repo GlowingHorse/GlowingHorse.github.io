@@ -1,5 +1,5 @@
 ---
-title: "Attribution-Based Pruning"
+title: "Attribution-Based Network Pruning"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AttrPrune/attr-prune-teaser.jpg' alt=''>"
 collection: research

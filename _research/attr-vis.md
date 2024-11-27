@@ -20,4 +20,5 @@ This video shows how the mask and visualization are generated.
 
 ## Article
 
-"Understanding contributing neurons via attribution visualizations." is now in progress.
+"Understanding contributing neurons via attribution visualizations." *Neurocomputing*. [Article](https://www.sciencedirect.com/science/article/abs/pii/S092523122300615X){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
+
