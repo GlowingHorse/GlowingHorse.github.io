@@ -16,3 +16,4 @@ Due to the highly nonlinear behavior of clothing, modelling fine-scale garment d
 
 "Efficient Deformation Learning of Varied Garments with a Structure-Preserving Multilevel Framework." *ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games*. [Article](https://i3dsymposium.org/2024/papers.html#learning-to-move){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
 
+"SwinGar: Spectrum-inspired neural dynamic deformation for free-swinging garments." *IEEE Transactions on Visualization and Computer Graphics (Presented at Pacific Graphics 2024)*. [Article](https://ieeexplore.ieee.org/abstract/document/10371781){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}

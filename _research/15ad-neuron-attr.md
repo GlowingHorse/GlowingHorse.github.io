@@ -18,3 +18,6 @@ The rapid advancement of autonomous driving technology has transformed transport
 
 "Reliable Aumann-Shapley Attribution for Autonomous Driving." *Ongoing Work*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
 
+"Output-targeted baseline for neuron attribution calculation." *Image and Vision Computing*. [Article](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001457){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Output-Targeted-Baseline){: .btn}
+
+"An attribution-based pruning method for real-time mango detection with YOLO network." *Computers and Electronics in Agriculture*. [Article](https://www.sciencedirect.com/science/article/pii/S0168169919313717?dgcid=author){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Fast-Mango-Detection){: .btn}

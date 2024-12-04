@@ -15,6 +15,17 @@ Given the critical need for more reliable autonomous driving models, explainabil
 ![](/images/research/AttrGuideVis/intro.jpg){: .align-center .percentage-resize-img}
 
 ## Article
-
 "Exploring Decision Shifts in Autonomous Driving with Attribution-Guided Visualization." *Ongoing Work*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
 
+"Visualization comparison of vision transformers and convolutional neural networks." *IEEE Transactions on Multimedia*. [Article](https://ieeexplore.ieee.org/document/10179930){: .btn} [GitHub Repo](https://github.com/GlowingHorse/NetVisCompare){: .btn}
+
+"Understanding contributing neurons via attribution visualizations." *Neurocomputing*. [Article](https://www.sciencedirect.com/science/article/abs/pii/S092523122300615X){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Attribution-Visualization){: .btn}
+
+"Group visualization of class-discriminative features." *Neural Networks*. [Article](https://www.sciencedirect.com/science/article/pii/S0893608020301969){: .btn} [GitHub Repo](https://github.com/GlowingHorse/Class-Discriminative-Vis){: .btn}
+
+## Other Applications
+To obtain an intuitive and integral understanding of neuron attributions, we propose a novel viewpoint to interpret neuron attributions of an entire layer, *i.e.,* visualizing their meanings integrally. This video shows how the mask and neural network visualization are generated.
+
+<video width="300" class="align-center" controls>
+    <source src="/images/research/AttrVis/vis-gen-horizontal.mp4" type="video/mp4">
+</video>

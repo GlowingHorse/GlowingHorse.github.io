@@ -15,6 +15,4 @@ Understanding decision-making in autonomous driving models is essential for real
 ![](/images/research/SemAttr/intro.jpg){: .align-center .percentage-resize-img}
 
 ## Article
-
 "Understanding Decision-Making of Autonomous Driving via Semantic Attribution." *IEEE Transactions on Intelligent Transportation Systems*. [Article](https://ieeexplore.ieee.org/document/10738125){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
-
