@@ -15,7 +15,7 @@ Given the critical need for more reliable autonomous driving models, explainabil
 ![](/images/research/AttrGuideVis/intro.jpg){: .align-center .percentage-resize-img}
 
 ## Article
-"Exploring Decision Shifts in Autonomous Driving with Attribution-Guided Visualization." *Ongoing Work*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
+"Exploring Decision Shifts in Autonomous Driving with Attribution-Guided Visualization." *IEEE Transactions on Intelligent Transportation Systems*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
 
 "Visualization comparison of vision transformers and convolutional neural networks." *IEEE Transactions on Multimedia*. [Article](https://ieeexplore.ieee.org/document/10179930){: .btn} [GitHub Repo](https://github.com/GlowingHorse/NetVisCompare){: .btn}
 

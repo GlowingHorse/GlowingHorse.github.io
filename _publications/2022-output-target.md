@@ -10,6 +10,6 @@ paperurl: '/files/pdf/research/202208attrBase-IVC.pdf'
 github: 'https://github.com/GlowingHorse/Output-Targeted-Baseline'
 # code: 'https://zenodo.org/badge/latestdoi/570214643'
 # zenodo: 'https://zenodo.org/badge/570214643.svg'
-book: 'https://shirui-homepage.com/research/attr-cal/'
+book: 'https://shirui-homepage.com/research/15ad-neuron-attr/'
 citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Image and Vision Computing</i>, 2022, 124: 104516.'
 ---
