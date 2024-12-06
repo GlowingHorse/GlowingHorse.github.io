@@ -1,5 +1,5 @@
 ---
-title: "Understanding Decision-Making of Autonomous Driving via Semantic Attribution"
+title: "Understanding decision-making of autonomous driving via semantic attribution"
 collection: publications
 permalink: /publication/2024-semantic-attr
 date: 2024-10-29

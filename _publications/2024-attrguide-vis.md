@@ -1,5 +1,5 @@
 ---
-title: "Exploring Decision Shifts in Autonomous Driving with Attribution-Guided Visualization"
+title: "Exploring decision shifts in autonomous driving with attribution-guided visualization"
 collection: publications
 permalink: /publication/2024-attrguide-vis
 date: 2024-12-06
