@@ -3,7 +3,7 @@ title: "Attribution-Guided Visualization Explanation"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AttrGuideVis/intro.jpg' alt=''>"
 collection: research
-order_number: 20
+order_number: 40
 header: 
   og_image: "research/AttrGuideVis/intro.jpg"
 ---

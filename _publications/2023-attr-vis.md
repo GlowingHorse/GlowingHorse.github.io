@@ -10,6 +10,6 @@ paperurl: '/files/pdf/research/202309attrVis-neurocomputing.pdf'
 github: 'https://github.com/GlowingHorse/Attribution-Visualization'
 # code: 'https://zenodo.org/badge/latestdoi/588504249'
 # zenodo: 'https://zenodo.org/badge/588504249.svg'
-book: 'https://shirui-homepage.com/research/20attrguide-vis/'
+book: 'https://shirui-homepage.com/research/40attrguide-vis/'
 citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Neurocomputing</i>, 2023, 550: 126492.'
 ---
