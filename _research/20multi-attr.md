@@ -15,4 +15,4 @@ Deep neural networks (DNNs) have advanced autonomous driving, but their lack of 
 ![](/images/research/TrafficAttr/fig-intro.jpg){: .align-center .percentage-resize-img}
 
 ## Article
-"Traffic Scene-Informed Attribution of Autonomous Driving Decisions." *Ongoing Work*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
+"Traffic Scene-Informed Attribution of Autonomous Driving Decisions." *IEEE Transactions on Intelligent Transportation Systems*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
