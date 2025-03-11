@@ -1,5 +1,5 @@
 ---
-title: "GarTrans: Transformer-Based Architecture for Dynamic and Detailed Garment Deformation"
+title: "GarTrans: Transformer-based architecture for dynamic and detailed garment deformation"
 collection: publications
 permalink: /publication/2025-gar-trans
 date: 2025-03-11
