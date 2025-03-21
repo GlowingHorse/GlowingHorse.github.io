@@ -1,5 +1,5 @@
 ---
-title: "Traffic Scene-Informed Attribution of Autonomous Driving Decisions"
+title: "Traffic scene-informed attribution of autonomous driving decisions"
 collection: publications
 permalink: /publication/2025-traffic-attr
 date: 2025-03-16
