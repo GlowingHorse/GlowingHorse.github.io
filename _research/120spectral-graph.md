@@ -15,4 +15,3 @@ We present a novel solution for mesh-based deformation simulation from a spectra
 ## Article
 
 "Spectrum-Enhanced Graph Attention Network for Garment Mesh Deformation." *Ongoing Work*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
-

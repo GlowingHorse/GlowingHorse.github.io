@@ -6,7 +6,7 @@ date: 2025-03-04
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 link: 'https://ieeexplore.ieee.org/document/10804826'
 paperurl: '/files/pdf/research/202503attrGuide-ITS.pdf'
-book: 'https://shirui-homepage.com/research/40attrguide-vis/'
+book: '/research/40attrguide-vis'
 # github: 'https://github.com/GlowingHorse/NetVisCompare'
 # zenodo: 'https://zenodo.org/badge/628158030.svg'
 # researchButton: 'https://shirui-homepage.com/research/attr-vis/'
