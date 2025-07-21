@@ -1,5 +1,5 @@
 ---
-title: " Free-Swinging Garment Deformation"
+title: "Free-Swinging Garment Deformation"
 layout: single-portfolio
 excerpt: "<img src='/images/research/PSDUNet/overview.jpg' alt=''>"
 collection: research

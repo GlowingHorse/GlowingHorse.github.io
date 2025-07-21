@@ -16,6 +16,8 @@ We present a novel solution for mesh-based deformation simulation from a spectra
 
 "Spectrum-Enhanced Graph Attention Network for Garment Mesh Deformation." *IEEE Transactions on Pattern Analysis and Machine Intelligence*. [Article](https://shirui-homepage.com/){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
 
+"Frequency-Divided Learning of Fine-Grained Clothing Behavior via Flexible Dynamic Graphs." *IEEE Transactions on Visualization and Computer Graphics*. [Article](){: .btn} [GitHub Repo](https://github.com/GlowingHorse/){: .btn}
+
 <!-- <video width="300" class="align-center" controls>
     <source src="/images/research/SEGA/sega-supp-lowest.mp4" type="video/mp4">
 </video> -->
