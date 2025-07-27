@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2025-gar-trans
 date: 2025-03-11
 venue: 'Computational Visual Media'
-# paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://ieeexplore.ieee.org/document/10977788'
 paperurl: '/files/pdf/research/202503GarTrans-CVM.pdf'
 # github: 'https://github.com/GlowingHorse/NetVisCompare'
