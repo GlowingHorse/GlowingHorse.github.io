@@ -11,5 +11,5 @@ paperurl: '/files/pdf/research/202501attrblob-ITS.pdf'
 book: '/research/10semantic-attr'
 # zenodo: 'https://zenodo.org/badge/628158030.svg'
 # researchButton: 'https://shirui-homepage.com/research/attr-vis/'
-citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>, <a href="https://cpns.bjut.edu.cn/index.html#/home">Liguo Zhang</a>. <i>IEEE Transactions on Intelligent Transportation Systems</i>, 2025, 26(1): 283-294.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="https://researchmap.jp/yama314/">Yasushi Yamaguchi</a>, <a href="https://cpns.bjut.edu.cn/index.html#/home">Liguo Zhang</a>. <i>IEEE Transactions on Intelligent Transportation Systems</i>, 2025, 26(1): 283-294.'
 ---

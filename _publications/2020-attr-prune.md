@@ -11,5 +11,5 @@ book: '/research/30ad-neuron-attr/'
 # code: 'https://doi.org/10.5281/zenodo.3534596'
 # zenodo: 'https://zenodo.org/badge/DOI/10.5281/zenodo.3534596.svg'
 # researchButton: 'https://shirui-homepage.com/research/attr-prune/'
-citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Computers and Electronics in Agriculture</i>, 2020, 169: 105214.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="https://researchmap.jp/yama314/">Yasushi Yamaguchi</a>. <i>Computers and Electronics in Agriculture</i>, 2020, 169: 105214.'
 ---

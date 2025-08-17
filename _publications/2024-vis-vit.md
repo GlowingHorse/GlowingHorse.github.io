@@ -11,5 +11,5 @@ github: 'https://github.com/GlowingHorse/NetVisCompare'
 book: '/research/40attrguide-vis'
 # zenodo: 'https://zenodo.org/badge/628158030.svg'
 # researchButton: 'https://shirui-homepage.com/research/attr-vis/'
-citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="https://cpns.bjut.edu.cn/index.html#/home">Liguo Zhang</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>IEEE Transactions on Multimedia</i>, 2024, 26: 2327-2339.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="https://cpns.bjut.edu.cn/index.html#/home">Liguo Zhang</a>, <a href="https://researchmap.jp/yama314/">Yasushi Yamaguchi</a>. <i>IEEE Transactions on Multimedia</i>, 2024, 26: 2327-2339.'
 ---
