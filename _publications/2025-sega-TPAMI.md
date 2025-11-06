@@ -1,0 +1,15 @@
+---
+title: "Spectrum-enhanced graph attention network for garment mesh deformation"
+collection: publications
+permalink: /publication/2025-sega-TPAMI
+date: 2025-05-19
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
+# paperurl: '/files/pdf/research/Turning the Lights on.pdf'
+link: 'https://ieeexplore.ieee.org/abstract/document/11006474'
+paperurl: '/files/pdf/research/202505SEGA-TPAMI.pdf'
+# github: 'https://github.com/GlowingHorse/NetVisCompare'
+book: '/research/120spectral-graph'
+# zenodo: 'https://zenodo.org/badge/628158030.svg'
+# researchButton: 'https://shirui-homepage.com/research/attr-vis/'
+citation: '<a href="https://li-tianxing.github.io/">Tianxing Li</a>, Rui Shi, <a href="https://www.researchgate.net/scientific-contributions/Qing-Zhu-2164787753">Qing Zhu</a>, <a href="https://cpns.bjut.edu.cn/index.html#/home">Liguo Zhang</a>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025, 47(8): 7153-7170.'
+---
