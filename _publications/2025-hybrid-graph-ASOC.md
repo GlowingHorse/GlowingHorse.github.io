@@ -11,5 +11,5 @@ paperurl: '/files/pdf/research/202511HybridU-ASOC.pdf'
 book: '/research/120spectral-graph'
 # zenodo: 'https://zenodo.org/badge/628158030.svg'
 # researchButton: 'https://shirui-homepage.com/research/attr-vis/'
-citation: '<a href="https://li-tianxing.github.io/">Tianxing Li</a>, Rui Shi, <a href="https://www.researchgate.net/scientific-contributions/Qing-Zhu-2164787753">Qing Zhu</a>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>. <i>Applied Soft Computing</i>, 2025, 114149.'
+citation: '<a href="https://li-tianxing.github.io/">Tianxing Li</a>, Rui Shi, <a href="https://www.researchgate.net/scientific-contributions/Qing-Zhu-2164787753">Qing Zhu</a>, <a href="https://graphics.c.u-tokyo.ac.jp/hp/kanai/">Takashi Kanai</a>. <i>Applied Soft Computing</i>, 2026, 186: 114149.'
 ---
