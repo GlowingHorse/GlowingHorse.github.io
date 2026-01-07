@@ -2,7 +2,7 @@
 title: "Hybrid learning with multi-scale graphs for enhanced garment deformation approximation"
 collection: publications
 permalink: /publication/2026-hybrid-graph-ASOC
-date: 2025-11-05
+date: 2026-01-02
 venue: 'Applied Soft Computing'
 # paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S1568494625014620'

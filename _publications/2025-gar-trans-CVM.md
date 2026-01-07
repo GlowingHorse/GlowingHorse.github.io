@@ -2,7 +2,7 @@
 title: "GarTrans: Transformer-based architecture for dynamic and detailed garment deformation"
 collection: publications
 permalink: /publication/2025-gar-trans-CVM
-date: 2025-12-10
+date: 2025-11-10
 venue: 'Computational Visual Media'
 link: 'https://ieeexplore.ieee.org/document/10977788'
 paperurl: '/files/pdf/research/202503GarTrans-CVM.pdf'
