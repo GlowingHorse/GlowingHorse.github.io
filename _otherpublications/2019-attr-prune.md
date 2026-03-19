@@ -7,5 +7,5 @@ date: 2019-10-18
 venue: 'Technical Committee on Pattern Recognition and Media Understanding'
 # paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://www.ieice.org/ken/paper/2019101871Qp/eng/'
-citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="http://www.graco.c.u-tokyo.ac.jp/yama-lab/index.php">Yasushi Yamaguchi</a>. <i>Technical Committee on Pattern Recognition and Media Understanding</i>, 2019, 119(235): 17-20.'
+citation: 'Rui Shi, <a href="https://li-tianxing.github.io/">Tianxing Li</a>, <a href="https://researchmap.jp/yama314/">Yasushi Yamaguchi</a>. <i>Technical Committee on Pattern Recognition and Media Understanding</i>, 2019, 119(235): 17-20.'
 ---
